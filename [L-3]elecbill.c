@@ -28,4 +28,4 @@ int main() {
     printf("Total Bill Amount: Rs. %.2f\n",total);
     printf("---------------------------------------\n\n");
 return 0;
-}
+}  
